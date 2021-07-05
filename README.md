@@ -25,7 +25,7 @@ This project explores how well different NLP models deal with summarization, cla
 
 You can try it out [**HERE UPDATE!**](https://share.streamlit.io/tomwalczak/pubmed-abstract-analyzer)
 
-![Demo](https://mldatatwk.s3.us-east-2.amazonaws.com/gifs/PubMedAbstractAnalyzer_square.gif)
+![Demo](https://mldatatwk.s3.us-east-2.amazonaws.com/gifs/pubmed_short.gif)
 
 ---
 
