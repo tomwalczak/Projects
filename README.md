@@ -15,7 +15,7 @@ Here are some of my ML projects, including source code, short project summary, a
 
 ## [**PubMed Abstract Analyzer** 🍺 💊 📄 🔎](https://github.com/tomwalczak/PubMed-Abstract-Analyzer)
 
-[Code](https://github.com/tomwalczak/PubMed-Abstract-Analyzer) | LIVE APP
+[Code](https://github.com/tomwalczak/PubMed-Abstract-Analyzer) | [LIVE APP](http://tomwalczak.com/pubmed-abstract-analyzer)
 
 This project explores how well different NLP models deal with summarization, classification and claim extraction, all on one page.
 
@@ -23,7 +23,7 @@ This project explores how well different NLP models deal with summarization, cla
 - Text Classification
 - Claim Extraction
 
-You can try it out [**HERE UPDATE!**](https://share.streamlit.io/tomwalczak/pubmed-abstract-analyzer)
+You can try it out [**HERE**](http://tomwalczak.com/pubmed-abstract-analyzer)
 
 ![Demo](https://mldatatwk.s3.us-east-2.amazonaws.com/gifs/pubmed_short.gif)
 
