@@ -31,7 +31,7 @@ You can try it out [**HERE**](http://tomwalczak.com/pubmed-abstract-analyzer)
 
 ## [**FoodVision Mobile** 🍔👀📱 ](https://github.com/tomwalczak/food-vision-mobile-tensorflowjs)
 
-[Code](https://github.com/tomwalczak/food-vision-mobile-tensorflowjs) | NB VIEWER | [Live App](https://tomwalczak.github.io/food-vision-mobile-tensorflowjs/)
+[Code](https://github.com/tomwalczak/food-vision-mobile-tensorflowjs) | [Live App](https://tomwalczak.github.io/food-vision-mobile-tensorflowjs/)
 
 This was my first ML project. It's a cool mobile web app that detects what food you're having. It's pretty accurate!
 
