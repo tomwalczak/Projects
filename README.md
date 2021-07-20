@@ -15,7 +15,7 @@ Here are some of my ML projects, including source code, short project summary, a
 
 ## [**PubMed Abstract Analyzer** 🍺 💊 📄 🔎](https://github.com/tomwalczak/PubMed-Abstract-Analyzer)
 
-[Code](https://github.com/tomwalczak/PubMed-Abstract-Analyzer) | [LIVE APP](http://tomwalczak.com/pubmed-abstract-analyzer)
+[Code](https://github.com/tomwalczak/PubMed-Abstract-Analyzer) | [Notebook](https://colab.research.google.com/drive/1vlnjLTGtsVgo3YqqtIIni-89iEJ0Yxuq?usp=sharing) | [LIVE APP](http://tomwalczak.com/pubmed-abstract-analyzer)
 
 This project explores how well different NLP models deal with summarization, classification and claim extraction, all on one page.
 
@@ -31,7 +31,7 @@ You can try it out [**HERE**](http://tomwalczak.com/pubmed-abstract-analyzer)
 
 ## [**FoodVision Mobile** 🍔👀📱 ](https://github.com/tomwalczak/food-vision-mobile-tensorflowjs)
 
-[Code](https://github.com/tomwalczak/food-vision-mobile-tensorflowjs) | [Live App](https://tomwalczak.github.io/food-vision-mobile-tensorflowjs/)
+[Code](https://github.com/tomwalczak/food-vision-mobile-tensorflowjs) | [Notebook](https://colab.research.google.com/drive/1YriiNWyml0LaRrSMsHwDjo4ASFVBUIFR?usp=sharing) | [Live App](https://tomwalczak.github.io/food-vision-mobile-tensorflowjs/)
 
 This was my first ML project. It's a cool mobile web app that detects what food you're having. It's pretty accurate!
 
