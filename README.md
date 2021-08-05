@@ -28,6 +28,8 @@ You can try it out [**HERE**](https://news-vs-facts.com/)
 
 ## ![Demo](https://mldatatwk.s3.us-east-2.amazonaws.com/owid/NvFv1.gif)
 
+---
+
 ## [**PubMed Abstract Analyzer** 🍺 💊 📄 🔎](https://github.com/tomwalczak/PubMed-Abstract-Analyzer)
 
 [Code](https://github.com/tomwalczak/PubMed-Abstract-Analyzer) | [LIVE APP](http://tomwalczak.com/pubmed-abstract-analyzer)
