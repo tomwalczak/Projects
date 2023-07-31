@@ -8,11 +8,23 @@ Here are some of my ML projects, including source code, short project summary, a
 
 | Project                                  | Tags                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AlexGPT** 🌍🌳🚀  | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)                                                                                                                          |
 | **News vs Facts Project** 🙈 🤖          | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)                                                                                                                          |
 | **PubMed Abstract Analyzer** 🍺 💊 📄 🔎 | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)                                                                                                                                                                                                                                            |
 | **FoodVision Mobile** 🍔👀📱             | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 
 <!--te-->
+
+
+## AlexGPT 🌍🌳🚀 (launching Aug '23)
+
+[LIVE APP](https://alexgpt.ai/])
+
+The world's top AI expert on complex energy, environmental and climate questions. Built with the latest large language models and an extensive, structured knowledge base.
+
+AlexGPT supports both native iOS and Web apps.
+
+![AlexGPT](https://mldatatwk.s3.us-east-2.amazonaws.com/img/AlexGPT_screenshot1.jpeg)
 
 ## [**News vs Facts Project** 🙈 🤖 ](https://news-vs-facts.com/)
 
@@ -61,3 +73,23 @@ You can try it out [**HERE**](https://tomwalczak.github.io/food-vision-mobile-te
 ![Demo](https://mldatatwk.s3.us-east-2.amazonaws.com/gifs/demo_small.gif)
 
 ---
+
+
+# Consulting Projects
+
+I have also worked on a few consulting projects.
+See my Fiverr profile for more details: [**Fiverr Profile**][https://www.fiverr.com/tomwalchak_nlp/]
+
+
+## AI for iOS Messenger App (Dmail.me)
+
+I created custom AI models to turn emails into DMs. Model & data pipeline design and implementation. Used Pytorch, CoreML, GPT-3.5. Full active learning, data augmentation and fine-tuning pipeline. Text segmentation, classification, summarization.
+
+![Dmail.me](https://mldatatwk.s3.us-east-2.amazonaws.com/img/dmail+portfolio.jpg)
+
+
+## AI Sales Coach MVP
+
+I created an experimental MVP to generate actionable feedback based on sales calls transcripts. This involved creating multi-stage prompts with output parsers and a knowledge base.
+
+![Pitch Perfect](https://mldatatwk.s3.us-east-2.amazonaws.com/img/pitch-perfect.png)
