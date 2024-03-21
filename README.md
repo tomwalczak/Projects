@@ -8,7 +8,7 @@ Here are some of my ML projects, including source code, short project summary, a
 
 | Project                                  | Tags                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AlexGPT** 🌍🌳🚀  | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)                                                                                                                          |
+| **AlexAI** 🌍🌳🚀  | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)                                                                                                                          |
 | **News vs Facts Project** 🙈 🤖          | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)                                                                                                                          |
 | **PubMed Abstract Analyzer** 🍺 💊 📄 🔎 | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)                                                                                                                                                                                                                                            |
 | **FoodVision Mobile** 🍔👀📱             | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
@@ -16,13 +16,15 @@ Here are some of my ML projects, including source code, short project summary, a
 <!--te-->
 
 
-## AlexGPT 🌍🌳🚀 (launching Aug '23)
+## AlexAI 🌍🌳🚀 
 
 [LIVE APP](https://alexgpt.ai/])
 
 The world's top AI expert on complex energy, environmental and climate questions. Built with the latest large language models and an extensive, structured knowledge base.
 
-AlexGPT supports both native iOS and Web apps.
+AlexAI supports both native iOS and Web apps.
+
+Blog: [How We Built AlexAI: The World's Top AI Energy and Climate Expert](https://tomwalczak.substack.com/p/how-we-built-alexai-the-worlds-top)
 
 ![AlexGPT](https://mldatatwk.s3.us-east-2.amazonaws.com/img/AlexGPT_screenshot1.jpeg)
 
